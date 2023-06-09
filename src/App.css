@@ -61,7 +61,7 @@ body {
 .signup-subheading {
   font-size: 1rem;
   font-weight: var(--roboto-regular);
-  padding: 1.26em 0 1.9em 0;
+  padding: 1.27em 0 1.75em 0;
 }
 
 .list {
@@ -73,10 +73,11 @@ body {
   display: flex;
   align-items: start;
   gap: 1.1em;
-  padding-bottom: 1.1em;
+  padding-bottom: 0.95em;
 }
 
 .form {
+  padding-top: 0.75em;
   display: flex;
   flex-direction: column;
   padding-bottom: 1.85em;
@@ -237,5 +238,9 @@ body {
 
   .thankyou-container {
     transform: scale(1);
+  }
+
+  .signup-main-heading {
+    font-size: 3.5rem;
   }
 }
