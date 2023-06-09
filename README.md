@@ -25,8 +25,8 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ### Links
 
-- Solution URL: [Solution]([https://your-solution-url.com](https://github.com/Mr-jaw/15th-challenge-newsletter-sign-up-with-success-message-main))
-- Live Site URL: [Live Site]([https://your-live-site-url.com](https://majestic-bublanina-15f839.netlify.app/))
+- Solution URL: [Solution](https://github.com/Mr-jaw/15th-challenge-newsletter-sign-up-with-success-message-main)
+- Live Site URL: [Live Site](https://majestic-bublanina-15f839.netlify.app/)
 
 ## My process
 
