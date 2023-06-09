@@ -5,7 +5,7 @@ const ThankYou = () => {
   const { setEmail, email } = useEmail();
   return (
     <div className="thankyou-container">
-      <img src={SuccessIcon} className="success-icon" />
+      <img src={SuccessIcon} alt="success" className="success-icon" />
       <h1 className="thankyou-heading">Thanks for subscribing!</h1>
       <p className="thankyou-text">
         A confirmation email has been sent to{" "}

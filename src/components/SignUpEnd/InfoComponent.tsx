@@ -9,17 +9,17 @@ const InfoComponent = () => {
       </h2>
       <ul className="list">
         <li className="list-item">
-          <img src={ListIcon} alt="" className="list-icon" />
+          <img src={ListIcon} alt="tick" className="list-icon" />
           <p className="list-text">
             Product discovery and building what matters
           </p>
         </li>
         <li className="list-item">
-          <img src={ListIcon} alt="" className="list-icon" />
+          <img src={ListIcon} alt="tick" className="list-icon" />
           <p className="list-text">Measuring to ensure updates are a success</p>
         </li>
         <li className="list-item">
-          <img src={ListIcon} alt="" className="list-icon" />
+          <img src={ListIcon} alt="tick" className="list-icon" />
           <p className="list-text">And much more!</p>
         </li>
       </ul>

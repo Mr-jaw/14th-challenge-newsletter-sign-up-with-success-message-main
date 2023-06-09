@@ -4,8 +4,8 @@ import mobileBanner from "../../assets/images/illustration-sign-up-mobile.svg";
 const BannerImg = () => {
   return (
     <div className="banner-container">
-      <img src={desktopBanner} className="desktop-banner" />
-      <img src={mobileBanner} className="mobile-banner" />
+      <img src={desktopBanner} className="desktop-banner" alt="" />
+      <img src={mobileBanner} className="mobile-banner" alt="" />
     </div>
   );
 };
